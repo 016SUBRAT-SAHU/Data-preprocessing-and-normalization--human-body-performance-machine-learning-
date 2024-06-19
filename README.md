@@ -1,0 +1,1 @@
+In this machine learning internship program, I gained invaluable insights and hands-on experience, making it an unparalleled learning journey. In this project we cover the data preprocessing and normalization technique.
